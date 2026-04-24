@@ -5,7 +5,7 @@ Atualmente sou estudante do 1º semestre de Engenharia de Software na FIAP. Minh
 ### 🚀 Sobre Mim
 
 ### 🎓 Acadêmico:
-      °Cursando: 1°Semestre em Engenharia de Software na FIAP (termino em dez 2029).
+Cursando: 1°Semestre em Engenharia de Software na FIAP (termino em dez 2029).
 
 ### 📜 Formação Técnica: Técnico em Administração pela ETEC Zona Leste.
 
