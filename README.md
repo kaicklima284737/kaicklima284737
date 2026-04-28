@@ -1,35 +1,53 @@
-### Olá, eu sou o Kaick Lima!
+<div align="center">
+  <h1> Olá, eu sou o Kaick Lima! 👋</h1>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+</div>
 
-Atualmente sou estudante do 1º semestre de Engenharia de Software na FIAP. Minha trajetória profissional começou com uma base sólida em gestão e processos, tendo concluído o curso Técnico em Administração na ETEC Zona Leste, onde desenvolvi uma visão estratégica que hoje aplico na resolução de problemas através do código.
+### 🎓 Formação & Carreira
+Sou estudante de **Engenharia de Software na FIAP** (2026 - 2029). Minha base técnica vem da **ETEC Zona Leste**, onde me formei como Técnico em Administração. Essa combinação me permite unir visão estratégica de negócios com o poder da tecnologia para resolver problemas reais.
 
-### 🚀 Sobre Mim
+- 🏆 **Destaque:** Medalhista de bronze na 1ª Olimpíada de Administração (OBAdm).
+- 📍 **Localização:** São Paulo, Brasil.
 
-### 🎓 Acadêmico:
-Cursando: 1°Semestre em Engenharia de Software na FIAP (termino em dez 2029).
+---
 
-### 📜 Formação Técnica: Técnico em Administração pela ETEC Zona Leste.
+### 🛠️ Toolbox (Stack Tecnológica)
 
-### 🏆 Destaque: Medalhista de bronze na 1ª Olimpíada de Administração (OBAdm).
+| Categoria | Tecnologias | Nível |
+| :--- | :--- | :--- |
+| **Lógica & Backend** | `Python` | 🟢 Em evolução |
+| **Frontend** | `HTML5`, `CSS3`, `JavaScript` | 🟡 Fundamentos |
+| **Hardware/IoT** | `Arduino` (LDR, Buzzers, LEDs) | 🟢 Praticando |
 
-### 📍 Localização: São Paulo, Brasil.
+---
 
-### 💻 Skills Técnicas (Em Evolução)
-Estou imerso no ecossistema de desenvolvimento, focando no domínio das seguintes tecnologias:
+### 📂 Projetos em Destaque
 
-### Lógica & Backend: Python.
+* 🚀 **[Monitor de Luminosidade](https://github.com/kaicklima284737/Arduino-Uno-CP1.git))**: Sistema inteligente de monitoramento ambiental com Arduino e alarme integrado. Ideal para controle de iluminação automatizado.
+* 🎮 **[Interface Mario Bros](SUBSTITUA_PELO_LINK_AQUI)**: Recriação de interface temática clássica utilizando técnicas de CSS Grid e Flexbox.
+* 📊 **[Python Estudo Lógica](https://github.com/kaicklima284737/Python.git)**: Repositório de algoritmos de repetição, cálculos financeiros e lógica matemática.
 
-### Web Frontend: HTML5, CSS3 e JavaScript.
+---
 
-### Hardware: Prototipagem com Arduino (sensores LDR, buzzers e LEDs).
+### 📫 Vamos nos conectar?
 
-📂 Projetos em Destaque:
+<div align="left">
+  <a href="https://www.linkedin.com/in/kaick-lima" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <h2>kaick-lima</h2>
+  
+  <a href="mailto:kaicklimatech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <h3>kaicklimatech@gmail.com<</h3>
+</div>
 
-Monitor de Luminosidade: Sistema de monitoramento ambiental utilizando Arduino com sistema de alarme integrado.
-
-Interface Mario Bros: Projeto de interface temática utilizando HTML e CSS.
-
-### 📫 Contato
-### 📧 E-mail: kaicklimatech@gmail.com
-
-### 💼 LinkedIn: www.linkedin.com/in/kaick-lima
-
+---
+*"A tecnologia é apenas uma ferramenta. O foco é resolver problemas."*
